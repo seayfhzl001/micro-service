@@ -1,5 +1,11 @@
 Manifest-Version: 1.0
-Built-By: root
-Build-Jdk: 1.8.0_121
+Implementation-Title: authorization-server
+Implementation-Version: 0.9.0.BUILD-SNAPSHOT
+Built-By: nick
+Implementation-Vendor-Id: com.ehome.microservice
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/microservice/authorization-server
 Created-By: Maven Integration for Eclipse
+Main-Class: eurekademo.EurekaApplication
 

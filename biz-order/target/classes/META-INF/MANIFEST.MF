@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: biz order
+Implementation-Version: 0.9.0.BUILD-SNAPSHOT
+Built-By: nick
+Implementation-Vendor-Id: com.ehome.microservice
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/microservice/biz-order
+Created-By: Maven Integration for Eclipse
+Main-Class: eurekademo.EurekaApplication
+
